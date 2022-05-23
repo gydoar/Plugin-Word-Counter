@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Counter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-20 19:05+0000\n"
+"PO-Revision-Date: 2022-05-23 14:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: wcpdomain"
+
+#. Author of the plugin
+msgid "Andres Vega"
+msgstr ""
+
+#: counter.php:116
+msgid "Beginning of post"
+msgstr "Inicio del post"
+
+#: counter.php:90
+msgid "Character Count"
+msgstr "Contar caracteres (letras)"
+
+#. Description of the plugin
+msgid "Counter for the post"
+msgstr ""
+
+#: counter.php:79
+msgid "Display Location"
+msgstr "Ubicación"
+
+#: counter.php:117
+msgid "End of post"
+msgstr "Final del post"
+
+#: counter.php:83
+msgid "Headline Text"
+msgstr "Título"
+
+#. URI of the plugin
+msgid "https://andrevega.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://author.example.com/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Plugin Counter"
+msgstr ""
+
+#: counter.php:93
+msgid "Read Time"
+msgstr "Tiempo de lectura"
+
+#: counter.php:56
+msgid "This post has"
+msgstr "Esta entrada tiene"
+
+#: counter.php:130
+msgid "Word Count"
+msgstr "Cuenta Palabras"
+
+#: counter.php:136
+msgid "Word Count Settings"
+msgstr "Configuración de cuenta palabras"
+
+#: counter.php:56
+msgid "words"
+msgstr "palabras"
