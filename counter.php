@@ -8,7 +8,7 @@
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Andrés Vega
- * Author URI:        https://author.example.com/
+ * Author URI:        https://andrevega.com
  * Text Domain:       wcpdomain
  * Domain Path:       /languages
  */
